@@ -44,11 +44,8 @@ Here are some ideas to get you started:
 ### 🏆 **Achievements**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=QuangKhai1208&theme=radical&margin-w=15&margin-h=15)
 
-### 🕒 **Coding Stats (WakaTime)**
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=QuangKhai1208)
-
 ### 👁️ **Profile Visitors**
-![Profile Views](https://komarev.com/ghpvc/?username=QuangKhai1208&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=QuangKhai1208)
 
 ---
 
