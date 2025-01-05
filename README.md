@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, I'm Quang Khai!
+# 👋 Hello there, I'm Quang Khai!
 
 🎓 **Financial Analyst & Tech Enthusiast**  
 💼 **Currently working on Financial Modeling and M&A Analysis**  
@@ -31,6 +31,24 @@ Here are some ideas to get you started:
 
 ### 📊 **GitHub Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangKhai1208&show_icons=true&theme=radical)
+
+### 🚀 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangKhai1208&layout=compact&theme=radical)
+
+### 🔥 **Contribution Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuangKhai1208&theme=radical)
+
+### 📈 **Activity Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuangKhai1208&theme=react)
+
+### 🏆 **Achievements**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=QuangKhai1208&theme=radical&margin-w=15&margin-h=15)
+
+### 🕒 **Coding Stats (WakaTime)**
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=QuangKhai1208)
+
+### 👁️ **Profile Visitors**
+![Profile Views](https://komarev.com/ghpvc/?username=QuangKhai1208&color=brightgreen)
 
 ---
 
