@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hello, I'm Quang Khai!
+
+🎓 **Financial Analyst & Tech Enthusiast**  
+💼 **Currently working on Financial Modeling and M&A Analysis**  
+🚀 **Exploring R, Shiny, and PostgreSQL**
+
+---
+
+### 🛠️ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangKhai1208&show_icons=true&theme=radical)
+
+---
+
+### 🤝 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khai12082000@gmail.com)
